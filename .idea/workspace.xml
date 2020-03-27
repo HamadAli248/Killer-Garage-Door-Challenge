@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78cef2fa-4fe8-4140-9583-3b5b7bc7672f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1Zipd5yhsTrjCPq8qq3Vrn2YSOz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DoorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;DoorTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.DoorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78cef2fa-4fe8-4140-9583-3b5b7bc7672f" name="Default Changelist" comment="" />
+      <created>1585331852278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585331852278</updated>
+      <workItem from="1585331857247" duration="456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2655" y="222" key="#Project_Structure" timestamp="1585331874051">
+      <screen x="1792" y="32" width="1680" height="1050" />
+    </state>
+    <state x="2655" y="222" key="#Project_Structure/1792.32.1680.1050/0.0.1792.1120@1792.32.1680.1050" timestamp="1585331874051" />
+    <state x="2843" y="423" width="423" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585331907968">
+      <screen x="1792" y="32" width="1680" height="1050" />
+    </state>
+    <state x="2843" y="423" width="423" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1792.32.1680.1050/0.0.1792.1120@1792.32.1680.1050" timestamp="1585331907968" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1585332314995">
+      <screen x="1792" y="32" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/1792.32.1680.1050/0.0.1792.1120@1792.32.1680.1050" timestamp="1585332314995" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1585332314993">
+      <screen x="1792" y="32" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/1792.32.1680.1050/0.0.1792.1120@1792.32.1680.1050" timestamp="1585332314993" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1585332314992">
+      <screen x="1792" y="32" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/1792.32.1680.1050/0.0.1792.1120@1792.32.1680.1050" timestamp="1585332314992" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1585332314994">
+      <screen x="1792" y="32" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/1792.32.1680.1050/0.0.1792.1120@1792.32.1680.1050" timestamp="1585332314994" />
+  </component>
+</project>

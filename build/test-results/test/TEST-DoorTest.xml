@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DoorTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-03-27T18:01:22" hostname="Hamads-MacBook-Pro.local" time="0.003">
+  <properties/>
+  <testcase name="testNormalOpen" classname="DoorTest" time="0.001"/>
+  <testcase name="fullCloseWhichName" classname="DoorTest" time="0.0"/>
+  <testcase name="testExample" classname="DoorTest" time="0.0"/>
+  <testcase name="fullClose" classname="DoorTest" time="0.0"/>
+  <testcase name="testPause" classname="DoorTest" time="0.0"/>
+  <testcase name="testObstacles" classname="DoorTest" time="0.0"/>
+  <testcase name="testNormalPress" classname="DoorTest" time="0.001"/>
+  <testcase name="hiddenTest" classname="DoorTest" time="0.0"/>
+  <testcase name="fullOpen" classname="DoorTest" time="0.0"/>
+  <testcase name="testNormalOperation" classname="DoorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
