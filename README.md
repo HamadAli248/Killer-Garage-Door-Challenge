@@ -22,3 +22,10 @@ A string where each character represents one second and indicates the position o
 
 Example
 ..P...O..... as input should yield 001234321000 as output
+
+## Running
+
+### ./gradlew build || ./gradlew run
+
+Runs the app in the console.<br>
+You will also see any lint errors in the console.
